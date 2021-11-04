@@ -1,3 +1,4 @@
+# What is the runtime of the below code?
 arr = [1,2,3,4,5]
 
 def foo(arr):
