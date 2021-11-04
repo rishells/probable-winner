@@ -16,3 +16,5 @@ def printUnorderedPairs(arr):
 
 printUnorderedPairs(arr)
 print(len(arr))
+
+# This looks like half of an N X N matrix which has size N^2 / 2 therefore it takes O(N^2) time.
