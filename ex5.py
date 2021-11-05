@@ -23,4 +23,4 @@ def printUnorderedPairs(arr1, arr2):
 
 printUnorderedPairs(arrayA, arrayB)
 
-#Runtime is O(ab) since 100,000 units of work is still constant
+#Runtime is O(ab) since 100,000 units of work is still constant time complexity
